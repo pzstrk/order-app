@@ -3,7 +3,7 @@
     <nav>
       <a href="#" class="title">Order Online</a>
       <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="#">Menu</a></li>
       </ul>
     </nav>
